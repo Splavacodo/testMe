@@ -1,1 +1,1 @@
-testMe is a testing framework which can be used with projects that are ran on node but also projects that make use of the browser. FYI each node library that is used will need to be installed seperately, a node_modules folder was not included inside this repository. The JSON files are also not provided and will need to be linked seperately. 
+testMe is a testing framework which can be used with projects that are ran on node but also projects that make use of the browser. 
